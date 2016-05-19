@@ -1,7 +1,8 @@
-name: DKAROCKS
+name: DKA ROCKS
 favicon: null
-layout_spectrum: 0.22176610049791634
+layout_spectrum: 1
 typography_spectrum: 0.3024709385354072
+title: "Detroit Kickball Association. Kickin' Balls and takin' names since 2008!"
 cta:
   domain: null
   bucket: null
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.4097046891693026
-  lightness: 0.9469247565139085
-  saturation: 0.9842671251390129
-  rhythmicContrast: 0.3408221153076738
+    - '#ffffff'
+    - '#ce0000'
+    - '#000000'
+    - '#e88a8b'
+    - '#3b3b3b'
+  brandStrength: 0.8125
+  lightness: 0
+  saturation: 0.0625
+  rhythmicContrast: 0.75
 purpose: []
